@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Aps>
+	<Group>
+		<Page Width="13" Height="13" PaperTray="0">
+			<Canvas>
+				<Canvas>
+					<Clip>
+						<Path FillMode="Winding">
+							<PathFigure IsClosed="True">
+								<PolyLine LineColor="#FF000000">
+									<Point X="0" Y="13" />
+									<Point X="0" Y="-0.5" />
+								</PolyLine>
+								<PolyLine LineColor="#FF000000">
+									<Point X="0" Y="-0.5" />
+									<Point X="13.5" Y="-0.5" />
+								</PolyLine>
+								<PolyLine LineColor="#FF000000">
+									<Point X="13.5" Y="-0.5" />
+									<Point X="13.5" Y="13" />
+								</PolyLine>
+								<PolyLine LineColor="#FF000000">
+									<Point X="13.5" Y="13" />
+									<Point X="0" Y="13" />
+								</PolyLine>
+							</PathFigure>
+						</Path>
+					</Clip>
+					<Path FillMode="Alternate" RenderTransform="1 0 0 -1 0 13">
+						<Pen Alignment="Center" DashCap="Flat" DashOffset="0" DashStyle="Solid" EndCap="Flat" LineJoin="Miter" MiterLimit="10" StartCap="Flat" Width="0.75">
+							<Brush>
+								<SolidBrush Color="#00FFFFFF" />
+							</Brush>
+						</Pen>
+						<PathFigure IsClosed="True">
+							<PolyLine LineColor="#FF000000">
+								<Point X="0" Y="13.5" />
+								<Point X="0" Y="13.5" />
+							</PolyLine>
+							<PolyLine LineColor="#FF000000">
+								<Point X="0" Y="13.5" />
+								<Point X="0" Y="13.5" />
+							</PolyLine>
+							<PolyLine LineColor="#FF000000">
+								<Point X="0" Y="13.5" />
+								<Point X="13.5" Y="13.5" />
+							</PolyLine>
+							<PolyLine LineColor="#FF000000">
+								<Point X="13.5" Y="13.5" />
+								<Point X="13.5" Y="13.5" />
+							</PolyLine>
+							<PolyLine LineColor="#FF000000">
+								<Point X="13.5" Y="13.5" />
+								<Point X="13.5" Y="0" />
+							</PolyLine>
+							<PolyLine LineColor="#FF000000">
+								<Point X="13.5" Y="0" />
+								<Point X="13.5" Y="0" />
+							</PolyLine>
+							<PolyLine LineColor="#FF000000">
+								<Point X="13.5" Y="0" />
+								<Point X="0" Y="0" />
+							</PolyLine>
+						</PathFigure>
+					</Path>
+					<Path FillMode="Winding" RenderTransform="1 0 0 -1 0 13">
+						<Brush>
+							<SolidBrush Color="#FF000000" />
+						</Brush>
+						<Pen Alignment="Center" DashCap="Flat" DashOffset="0" DashStyle="Solid" EndCap="Flat" LineJoin="Miter" MiterLimit="10" StartCap="Flat" Width="0.75">
+							<Brush>
+								<SolidBrush Color="#FFFFFFFF" />
+							</Brush>
+						</Pen>
+						<PathFigure IsClosed="True">
+							<Bezier CurveColor="#FF000000">
+								<StartPoint X="6.75" Y="8.4375" />
+								<ControlPoint1 X="5.81625" Y="8.4375" />
+								<ControlPoint2 X="5.0625" Y="7.68375" />
+								<EndPoint X="5.0625" Y="6.75" />
+							</Bezier>
+							<PolyLine LineColor="#FF000000">
+								<Point X="5.0625" Y="6.75" />
+								<Point X="5.0625" Y="6.75" />
+							</PolyLine>
+							<Bezier CurveColor="#FF000000">
+								<StartPoint X="5.0625" Y="6.75" />
+								<ControlPoint1 X="5.0625" Y="5.81625" />
+								<ControlPoint2 X="5.81625" Y="5.0625" />
+								<EndPoint X="6.75" Y="5.0625" />
+							</Bezier>
+						</PathFigure>
+						<PathFigure IsClosed="True">
+							<Bezier CurveColor="#FF000000">
+								<StartPoint X="6.75" Y="3.9375" />
+								<ControlPoint1 X="5.1975" Y="3.9375" />
+								<ControlPoint2 X="3.9375" Y="5.1975" />
+								<EndPoint X="3.9375" Y="6.75" />
+							</Bezier>
+							<PolyLine LineColor="#FF000000">
+								<Point X="3.9375" Y="6.75" />
+								<Point X="3.9375" Y="6.75" />
+							</PolyLine>
+							<Bezier CurveColor="#FF000000">
+								<StartPoint X="3.9375" Y="6.75" />
+								<ControlPoint1 X="3.9375" Y="8.3025" />
+								<ControlPoint2 X="5.1975" Y="9.5625" />
+								<EndPoint X="6.75" Y="9.5625" />
+							</Bezier>
+						</PathFigure>
+						<PathFigure IsClosed="True">
+							<Bezier CurveColor="#FF000000">
+								<StartPoint X="6.75" Y="10.96875" />
+								<ControlPoint1 X="3.9375" Y="10.96875" />
+								<ControlPoint2 X="1.5356251" Y="9.219376" />
+								<EndPoint X="0.5625" Y="6.75" />
+							</Bezier>
+							<PolyLine LineColor="#FF000000">
+								<Point X="0.5625" Y="6.75" />
+								<Point X="0.5625" Y="6.75" />
+							</PolyLine>
+							<Bezier CurveColor="#FF000000">
+								<StartPoint X="0.5625" Y="6.75" />
+								<ControlPoint1 X="1.5356251" Y="4.2806253" />
+								<ControlPoint2 X="3.9375" Y="2.53125" />
+								<EndPoint X="6.75" Y="2.53125" />
+							</Bezier>
+							<PolyLine LineColor="#FF000000">
+								<Point X="6.75" Y="2.53125" />
+								<Point X="6.75" Y="2.53125" />
+							</PolyLine>
+							<Bezier CurveColor="#FF000000">
+								<StartPoint X="6.75" Y="2.53125" />
+								<ControlPoint1 X="9.5625" Y="2.53125" />
+								<ControlPoint2 X="11.9643755" Y="4.2806253" />
+								<EndPoint X="12.9375" Y="6.75" />
+							</Bezier>
+							<PolyLine LineColor="#FF000000">
+								<Point X="12.9375" Y="6.75" />
+								<Point X="12.9375" Y="6.75" />
+							</PolyLine>
+							<Bezier CurveColor="#FF000000">
+								<StartPoint X="12.9375" Y="6.75" />
+								<ControlPoint1 X="11.9643755" Y="9.219376" />
+								<ControlPoint2 X="9.5625" Y="10.96875" />
+								<EndPoint X="6.75" Y="10.96875" />
+							</Bezier>
+						</PathFigure>
+					</Path>
+				</Canvas>
+			</Canvas>
+		</Page>
+	</Group>
+</Aps>
